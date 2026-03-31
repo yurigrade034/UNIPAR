@@ -31,10 +31,6 @@ Este projeto aplica conceitos avançados de manipulação de dados aprendidos em
 2. Execute o arquivo 'Main.kt'
 
    ```
-4. Rode a aplicação:
-   ```bash
-   java -jar Calculadora.jar
-   ```
 
 ---
 
@@ -65,4 +61,5 @@ Pilha montada
 
 ---
 > **Nota de Desenvolvimento:** Este projeto foi construído focando em uma estrutura de código limpa, removendo comentários desnecessários conforme as boas práticas de estudo.
+> **Obs:** Foi utilizado codigo com base em IA para facilitar a vida de todos ja que é apenas uma atividade.
 ```

@@ -32,10 +32,6 @@ O desempenho de cada volta é calculado por uma fórmula que pondera o estado at
 2. Execute o arquivo 'Main.kt'
 
    ```
-4. Execute a simulação:
-   ```bash
-   java -jar Main.jar
-   ```
 
 ---
 
@@ -50,4 +46,5 @@ O desempenho de cada volta é calculado por uma fórmula que pondera o estado at
 
 ---
 > **Nota:** Este projeto foca em lógica limpa e uma interface de terminal intuitiva (o famoso "frufru" visual) para facilitar a leitura dos resultados.
+> **Obs:** Foi utilizado codigo com base em IA para facilitar a vida de todos ja que é apenas uma atividade.
 ```
