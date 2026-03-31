@@ -24,7 +24,7 @@ object Calculadora {
             nivel = 0
             aux   = ""
 
-            print("▶ Digite a expressão: ")
+            print("Digite a expressão: ")
             val entrada = readln()
 
             if (entrada.trim().lowercase() == "sair") {
@@ -35,16 +35,16 @@ object Calculadora {
             val exp = entrada.replace(" ", "")
 
             if (entrada.length < 9) {
-                println("⚠  Mínimo de 9 caracteres! Você digitou ${entrada.length}.\n")
+                println("Mínimo de 9 caracteres! Você digitou ${entrada.length}.\n")
                 continue
             }
 
             if (!entrada.matches(regex)) {
-                println("⚠  Expressão negada! Use: números, espaços, + - * / ( )\n")
+                println("Expressão negada, Use: números, espaços, + - * / ( )\n")
                 continue
             }
 
-            println("✔  Expressão aceita!\n")
+            println("Expressão aceita!\n")
 
             exp.forEach { c ->
                 val nivelAtual = nivel

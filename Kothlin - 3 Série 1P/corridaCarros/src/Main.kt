@@ -192,12 +192,12 @@ fun main() {
     println("📋 GRID DE LARGADA:")
     duplas.forEach { it.piloto.apresentar() }
 
-    //e começa a corrida
+    //começa a corrida
     val pista = Pista(
         nome        = "Autódromo de Interlagos",
         duplas      = duplas,
         totalVoltas = 10,
-        clima       = "Neblina"    //3 tipos diferente para brincar: "Seco", "Chuva", "Neblina"
+        clima       = "Neblina"   // "Seco", "Chuva", "Neblina"
     )
 
     pista.simularCorrida()

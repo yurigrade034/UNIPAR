@@ -46,5 +46,5 @@ O desempenho de cada volta é calculado por uma fórmula que pondera o estado at
 
 ---
 > **Nota:** Este projeto foca em lógica limpa e uma interface de terminal intuitiva (o famoso "frufru" visual) para facilitar a leitura dos resultados.
-> **Obs:** Foi utilizado codigo com base em IA para facilitar a vida de todos ja que é apenas uma atividade.
+> **Obs:** Foi utilizado codigo com base em IA para facilitar a vida de todos ja que é apenas uma atividade. Além disso Max Verstappen tantanran.
 ```
