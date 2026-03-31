@@ -1,0 +1,1 @@
+codigo com auxilio de IA e um pouco de cabeça pra entender e ajustar
